@@ -1,0 +1,30 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Projects', url: ''}
+- {name: 'About',    url: 'about'}
+
+footer: "Eduardo Paz Orduña · Engineering Manager"
+
+#-------------------------------
+# Projects Section (TODO: replace with real projects and thumbnails)
+
+projects:
+- {name: 'Project One (TODO)',   url: 'proj-1'}
+- {name: 'Project Two (TODO)',   url: 'proj-2'}
+- {name: 'Project Three (TODO)', url: 'proj-3'}
+
+#-------------------------------
+# Social links
+
+social:
+- {icon: 'github',    link: 'https://github.com/edupaz2'}
+- {icon: 'linkedin',  link: 'https://linkedin.com/in/edupaz'}
+- {icon: 'envelope',  link: 'mailto:jobs.edupaz2@proton.me'}
+
+#-------------------------------
+# SEO
+
+seo:
+  description: 'Engineering manager and software engineer: C++, Kotlin, Swift, CI/CD, telemetry.'
