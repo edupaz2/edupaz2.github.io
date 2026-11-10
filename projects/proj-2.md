@@ -1,5 +1,7 @@
 ---
 layout: post
-title: 'Project 2 (TODO)'
+title: 'Blue Zones around me'
 ---
-TODO: describe this project.
+Madrid parking zones shown on a map.
+
+Source code: [github.com/edupaz2/blue_zones_around_me](https://github.com/edupaz2/blue_zones_around_me)
