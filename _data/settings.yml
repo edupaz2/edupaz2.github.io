@@ -8,12 +8,12 @@ menu:
 footer: "Eduardo Paz Orduña · Engineering Manager"
 
 #-------------------------------
-# Projects Section (TODO: replace with real projects and thumbnails)
+# Projects Section (TODO: add thumbnails)
 
 projects:
-- {name: 'Project One (TODO)',   url: 'proj-1'}
-- {name: 'Project Two (TODO)',   url: 'proj-2'}
-- {name: 'Project Three (TODO)', url: 'proj-3'}
+- {name: 'Mastergoal',   url: 'proj-1'}
+- {name: 'Blue Zones around me',   url: 'proj-2'}
+- {name: 'SIC Data Hack Challenge 2026', url: 'proj-3'}
 
 #-------------------------------
 # Social links
