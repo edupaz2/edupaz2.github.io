@@ -13,7 +13,7 @@ footer: "Eduardo Paz Orduña · Engineering Manager"
 projects:
 - {name: 'Mastergoal',   url: 'proj-1'}
 - {name: 'Blue Zones around me',   url: 'proj-2'}
-- {name: 'SIC Data Hack Challenge 2026', url: 'proj-3'}
+- {name: 'The Spengler Cup', url: 'proj-3'}
 
 #-------------------------------
 # Social links
