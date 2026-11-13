@@ -5,3 +5,5 @@ title: 'Blue Zones around me'
 Madrid parking zones shown on a map.
 
 Source code: [github.com/edupaz2/blue_zones_around_me](https://github.com/edupaz2/blue_zones_around_me)
+
+![Blue Zones around me: map legend and parking zones in Madrid]({{ site.github.url }}/assets/img/projects/proj-2/thumbnail.jpg)
