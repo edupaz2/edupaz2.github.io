@@ -6,4 +6,4 @@ A hockey card game for the Spengler Cup: collect cards, play the daily quiz, mak
 
 Source code: [github.com/edupaz2/the-spengler-cup-2026](https://github.com/edupaz2/the-spengler-cup-2026)
 
-![The Spengler Cup poster: trophy on the ice in Davos]({{ site.github.url }}/assets/img/projects/proj-3/thumbnail.jpg)
+![The Spengler Cup 2025 card pack]({{ site.github.url }}/assets/img/projects/proj-3/thumbnail.jpg)
